@@ -30,7 +30,7 @@ The bot uses a hybrid infrastructure to remain active without costs:
 ### 1. Local Environment
 Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/discord-wins-tracker.git](https://github.com/YOUR_USERNAME/discord-wins-tracker.git)
+git clone https://github.com/Geros-Von-Valdo/discord-wins-tracker.git
 pip install -r requirements.txt
 ```
 
